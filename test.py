@@ -1,3 +1,9 @@
-a = int(input())
-b = int(input())
-print("Sum =", a + b)
+
+a = 10
+b = 20
+
+sum = a + b
+
+print("First number:", a)
+print("Second number:", b)
+print("Sum:", sum)
